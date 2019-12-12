@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Image and model names
-TEST_IMG=ADE_val_00001519.jpg
+TEST_IMG=room.jpg
 MODEL_PATH=ade20k-resnet50dilated-ppm_deepsup
 RESULT_PATH=./
 
